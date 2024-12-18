@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html lang="eng">
+    <head>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <div id="container">
+            <h1>Sheep Counted:</h1>
+            <h2 id="count-el">0</h2>
+        <!--1. Create a counter/increment button "onclick"-->        
+            <button id="increment-btn" onclick="increment()">INCREMENT</button><br>
+            <!--3. Create a reset button that sets value back to 0.-->
+            <button id="reset-btn" onclick="reset()">RESET</button><br>
+            <!--2. Create a Save button.
+            Set the id to "save-btn" and call the save() function when it's clicked -->
+            <button id="save-btn" onclick="save()">SAVE</button>
+            <p id="save-el">Previous entries: </p>
+        </div>
+        <script src="index.js"></script>
+    </body>
+</html>
