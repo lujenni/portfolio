@@ -1,0 +1,21 @@
+HTML Tags
+1. h1
+2. <div id="topbar">
+3. <div id="navi">
+4. <b>
+5. <div id="container">
+6. <p>
+7. <a href="">
+8. <img src="">
+9. <div id ="copyright">
+10. <div id ="description">
+
+CSS
+1. #topbar
+2. .button
+3. .button:hover
+4. #flower1
+5. body
+
+Javascript + Bootstrap
+I used Javascript to automatically update the copyright date on my webpage.
