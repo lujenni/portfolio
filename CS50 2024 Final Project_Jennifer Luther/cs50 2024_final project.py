@@ -14,7 +14,7 @@ window_HEIGHT = 400
 main_Screen = pygame.display.set_mode((window_WIDTH, window_HEIGHT))
 
 #change window icon
-img = pygame.image.load('C:\Users\jenni\hello\CS50 2024 Final Project_Jennifer Luther\Microsoft.png')
+img = pygame.image.load('Microsoft.png')
 pygame.display.set_icon(img)
 
 #set pygame window caption
